@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ivan/Desktop/Stud/Telemetry/CW_tele/build",
+  "command": "/usr/bin/arm-none-eabi-g++ -DSTM32F3 -DSTM32F3CCM -DSTM32F303VC -I/home/ivan/Desktop/Stud/Telemetry/CW_tele -I/home/ivan/Desktop/Stud/Telemetry/CW_tele/build/_deps/libopencm3_repo-src/include -g -ggdb3 -Os -fdata-sections -ffunction-sections -fno-common -fno-exceptions -Wall -Wextra -Wshadow -Wdouble-promotion -Wundef -Wconversion -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -std=c++17 -o CMakeFiles/CW_tele.dir/src/main.cpp.obj -c /home/ivan/Desktop/Stud/Telemetry/CW_tele/src/main.cpp",
+  "file": "/home/ivan/Desktop/Stud/Telemetry/CW_tele/src/main.cpp"
+},
+{
+  "directory": "/home/ivan/Desktop/Stud/Telemetry/CW_tele/build",
+  "command": "/usr/bin/arm-none-eabi-g++ -DSTM32F3 -DSTM32F3CCM -DSTM32F303VC -I/home/ivan/Desktop/Stud/Telemetry/CW_tele -I/home/ivan/Desktop/Stud/Telemetry/CW_tele/build/_deps/libopencm3_repo-src/include -g -ggdb3 -Os -fdata-sections -ffunction-sections -fno-common -fno-exceptions -Wall -Wextra -Wshadow -Wdouble-promotion -Wundef -Wconversion -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -std=c++17 -o CMakeFiles/CW_tele.dir/SPI_master/SPI.cpp.obj -c /home/ivan/Desktop/Stud/Telemetry/CW_tele/SPI_master/SPI.cpp",
+  "file": "/home/ivan/Desktop/Stud/Telemetry/CW_tele/SPI_master/SPI.cpp"
+},
+{
+  "directory": "/home/ivan/Desktop/Stud/Telemetry/CW_tele/build",
+  "command": "/usr/bin/arm-none-eabi-g++ -DSTM32F3 -DSTM32F3CCM -DSTM32F303VC -I/home/ivan/Desktop/Stud/Telemetry/CW_tele -I/home/ivan/Desktop/Stud/Telemetry/CW_tele/build/_deps/libopencm3_repo-src/include -g -ggdb3 -Os -fdata-sections -ffunction-sections -fno-common -fno-exceptions -Wall -Wextra -Wshadow -Wdouble-promotion -Wundef -Wconversion -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -std=c++17 -o CMakeFiles/CW_tele.dir/NRF24_master/RF24.cpp.obj -c /home/ivan/Desktop/Stud/Telemetry/CW_tele/NRF24_master/RF24.cpp",
+  "file": "/home/ivan/Desktop/Stud/Telemetry/CW_tele/NRF24_master/RF24.cpp"
+}
+]
